@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 render log for project “INSCREVA-SE NO CANAL.aep”
+
+Rendering started on 25/07/2020 at 19:06:46
+
+  25/07/2020 19:06:46: Starting composition “Screenshot_1”.
+
+  Output To: C:\VMIX\SPORTVOICE\APOIO\INSCREVA-SE NO CANAL.mov    25/07/2020 19:08:58: Finished composition “Screenshot_1”.
+
+
+  Total Time Elapsed: 2 Min, 12 Sec
+Log closed on 25/07/2020 at 19:08:58
+
