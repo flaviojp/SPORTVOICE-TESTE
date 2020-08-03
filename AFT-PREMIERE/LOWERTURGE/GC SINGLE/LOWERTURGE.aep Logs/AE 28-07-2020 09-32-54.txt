@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 render log for project “LOWERTURGE.aep”
+
+Rendering started on 28/07/2020 at 09:32:54
+
+  28/07/2020 09:32:54: Starting composition “MODELO”.
+
+  Output To: C:\VMIX\SPORTVOICE\SEQUENCIA PNG\CARACTERE\GC SINGLE\OUT\GC_SINGLE[#####].png    28/07/2020 09:32:54: Finished composition “MODELO”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 28/07/2020 at 09:32:54
+

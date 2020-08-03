@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 render log for project “ESCALACAO.aep”
+
+Rendering started on 30/07/2020 at 12:06:38
+
+  30/07/2020 12:06:38: Starting composition “modelo”.
+
+  Output To: C:\VMIX\SPORTVOICE\SEQUENCIA PNG\ESCALACAO\ESCALACAO_[#####].png    30/07/2020 12:06:40: Finished composition “modelo”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 30/07/2020 at 12:06:40
+

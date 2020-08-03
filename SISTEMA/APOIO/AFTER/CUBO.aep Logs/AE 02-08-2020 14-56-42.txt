@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 render log for project “CUBO.aep”
+
+Rendering started on 02/08/2020 at 14:56:42
+
+  02/08/2020 14:56:42: Starting composition “MAN”.
+
+  Output To: C:\VMIX\SPORTVOICE\SEQUENCIA PNG\CUBO\UNIFICA - TORCEDOR CARIOCA\UNIFICA E TORCEDOR CARIOCA_[#####].png      Render stopped by user.    02/08/2020 14:58:59: Finished composition “MAN”.
+
+
+  Total Time Elapsed: 2 Min, 16 Sec
+Log closed on 02/08/2020 at 14:58:59
+

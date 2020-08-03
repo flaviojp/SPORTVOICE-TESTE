@@ -1,0 +1,12 @@
+Adobe After Effects v14.0 Windows 64 render log for project “CUBO.aep”
+
+Rendering started on 02/08/2020 at 15:22:48
+
+  02/08/2020 15:22:48: Starting composition “MAN”.
+
+  Output To: C:\VMIX\SPORTVOICE\VIDEOS\CUBO\CUBO 2.mov    02/08/2020 15:23:05: Finished composition “MAN”.
+
+
+  Total Time Elapsed: 17 Seconds
+Log closed on 02/08/2020 at 15:23:05
+
